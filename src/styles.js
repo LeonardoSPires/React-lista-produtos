@@ -15,7 +15,7 @@ export const TodoList = styled.div`
   padding: 5%;
   background: #fff;
   border-radius: 8px;
-  width: 90%;
+  width: 80%;
   max-width: 500px;
   min-width: 280px;
 
